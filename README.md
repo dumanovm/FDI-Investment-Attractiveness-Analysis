@@ -245,34 +245,6 @@ Future extensions could use panel data, regional segmentation, sector-level FDI 
 | Correlation Analysis | Robust Standard Errors | Business Environment Assessment | Recommendation Development |
 
 ---
-
-## Repository Structure
-
-```text
-data/
-├── fdi_country_data_2019.xlsx
-├── DATA_DICTIONARY.md
-
-fdi_econometric_analysis_output.pdf
-full_research_report.pdf
-project_presentation.pdf
-README.md
-```
-
----
-
-## Files
-
-| File | Description |
-|------|-------------|
-| `data/fdi_country_data_2019.xlsx` | Country-level dataset used for the analysis |
-| `data/DATA_DICTIONARY.md` | Variable descriptions and measurement details |
-| `fdi_econometric_analysis_output.pdf` | RStudio / R Markdown analysis output with code, models, tables, and visualizations |
-| `full_research_report.pdf` | Full written research report |
-| `project_presentation.pdf` | Presentation version of the project |
-
----
-
 ## Author
 
 **Maksim Dumanov**
